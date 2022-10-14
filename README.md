@@ -2,7 +2,7 @@
 ## Hello and welcome to my Museum! 
 Explore 4 different VR made fantasy rooms! 
 
-You can find the latest release [here] (https://github.com/Marksey5/Museum/releases/tag/v1.0.0)
+You can find the latest release [here](https://github.com/Marksey5/Museum/releases/tag/v1.0.0)
 
 Follow me on [instagram](https://www.instagram.com/marksey_vr/) and [twitter](https://twitter.com/MarkseyVR) for updates and future projects!
 
